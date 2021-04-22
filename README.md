@@ -1,5 +1,4 @@
 # Turn Fighting Game Demo
-___________________________________________________
 
 A turn-based fighting game with resources that can be used by both the player and the enemy. Made in Pygame.
 Made in Pygame.
@@ -12,7 +11,6 @@ The original version with copyrighted images/sprites can be played at: https://r
 Instructions are down below on how to play.
 
 # Instructions
-___________________________________________________
   Note the bar at the top of the screen. This determines how much of the red, green, blue, and black resource you and your enemy share.
   
   Look at the bottom left of the screen. Here you can find your HP, turn count, and number of battles.
@@ -26,7 +24,6 @@ ___________________________________________________
   Click a skill in the bottom right of the screen when you are ready to start fighting!
 
 # Images
-___________________________________________________
   Sword, Shield, and Heart:
   https://opengameart.org/content/fantasy-icon-pack-by-ravenmore-0
   http://dycha.net
@@ -35,7 +32,6 @@ ___________________________________________________
   https://opengameart.org/content/bosses-and-monsters-spritesheets-ars-notoria
 
 # Sources
-___________________________________________________
   JSON:
   https://www.youtube.com/watch?v=9N6a-VLBa2I
 

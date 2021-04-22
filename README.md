@@ -24,20 +24,18 @@ ___________________________________________________
   Look at the indication above your enemy. This shows you how much damage they will do, along with the resources they will consume.
 
   Click a skill in the bottom right of the screen when you are ready to start fighting!
-___________________________________________________
 
 # Images
-
+___________________________________________________
   Sword, Shield, and Heart:
   https://opengameart.org/content/fantasy-icon-pack-by-ravenmore-0
   http://dycha.net
 
   Enemy + Player Sprites: 
   https://opengameart.org/content/bosses-and-monsters-spritesheets-ars-notoria
-___________________________________________________
 
 # Sources
-
+___________________________________________________
   JSON:
   https://www.youtube.com/watch?v=9N6a-VLBa2I
 

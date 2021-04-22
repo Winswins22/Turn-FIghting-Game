@@ -5,7 +5,9 @@ A turn-based fighting game with resources that can be used by both the player an
 Made in Pygame.
 
 This version doesn't contain copyrighted content and can be played at: https://replit.com/@WinstonHo/Turn-FIghting-Game-Open-Source-Content
+
 The original version with copyrighted images/sprites can be played at: https://replit.com/@WinstonHo/Turn-Fighting-Game
+
 
 Instructions are down below on how to play.
 

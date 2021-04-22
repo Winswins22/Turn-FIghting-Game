@@ -1,7 +1,7 @@
 # Turn Fighting Game Demo
 ___________________________________________________
 
-A quick turn-based fighting game where both the player and enemy have access and share the same resources.
+A turn-based fighting game with resources that can be used by both the player and the enemy. Made in Pygame.
 Made in Pygame.
 
 This version doesn't contain copyrighted content and can be played at: https://replit.com/@WinstonHo/Turn-FIghting-Game-Open-Source-Content

@@ -5,7 +5,7 @@ Made in Pygame.
 
 This version doesn't contain copyrighted content and can be played at: https://replit.com/@WinstonHo/Turn-Fighting-Game-Open-Source-Content
 
-The original version with copyrighted images/sprites can be played at: https://replit.com/@WinstonHo/Turn-Fighting-Game
+The original version with copyrighted images/sprites (to demonstrate what the original looked like) can be played at: https://replit.com/@WinstonHo/Turn-Fighting-Game
 
 
 Instructions are down below on how to play.
